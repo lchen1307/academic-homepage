@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lchen.org/cv.html</loc>
-    <lastmod>2026-04-28T06:56:02.671Z</lastmod>
-  </url>
-  <url>
     <loc>https://lchen.org/publications.html</loc>
-    <lastmod>2026-04-28T06:56:02.681Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lchen.org/teaching.html</loc>
-    <lastmod>2026-04-28T07:00:10.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lchen.org/index.html</loc>
-    <lastmod>2026-04-28T11:08:50.388Z</lastmod>
+    <lastmod>2026-04-28T11:34:53.424Z</lastmod>
   </url>
   <url>
     <loc>https://lchen.org/repositories.html</loc>
-    <lastmod>2026-04-28T11:08:29.210Z</lastmod>
+    <lastmod>2026-04-28T11:34:53.424Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lchen.org/cv.html</loc>
+    <lastmod>2026-04-28T11:34:53.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lchen.org/teaching.html</loc>
+    <lastmod>2026-04-28T11:34:53.424Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lchen.org/index.html</loc>
+    <lastmod>2026-04-28T11:34:53.424Z</lastmod>
   </url>
 </urlset>
