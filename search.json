@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV\n\n\n\n Back to top"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -19,27 +26,6 @@
     "title": "Publications",
     "section": "Conference Presentations",
     "text": "Conference Presentations\nComing soon."
-  },
-  {
-    "objectID": "repositories.html",
-    "href": "repositories.html",
-    "title": "Repositories",
-    "section": "",
-    "text": "CVX2: Convex Sets\nCVX3: Convex Function\nCVX4: Convex Optimization Problem\nCVX5: Duality"
-  },
-  {
-    "objectID": "repositories.html#class-notes",
-    "href": "repositories.html#class-notes",
-    "title": "Repositories",
-    "section": "",
-    "text": "CVX2: Convex Sets\nCVX3: Convex Function\nCVX4: Convex Optimization Problem\nCVX5: Duality"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Download CV\n\n\n\n Back to top"
   },
   {
     "objectID": "teaching.html",
@@ -68,5 +54,19 @@
     "title": "CHEN, Long (陈龙)",
     "section": "",
     "text": "I am a M.Phil. student in Management Science and Engineering, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\nThis website hosts a brief introduction in the vitae section, my publications, open source repositories, and teaching experience."
+  },
+  {
+    "objectID": "repositories.html",
+    "href": "repositories.html",
+    "title": "Repositories",
+    "section": "",
+    "text": "CVX2: Convex Sets\nCVX3: Convex Function\nCVX4: Convex Optimization Problem\nCVX5: Duality"
+  },
+  {
+    "objectID": "repositories.html#class-notes",
+    "href": "repositories.html#class-notes",
+    "title": "Repositories",
+    "section": "",
+    "text": "CVX2: Convex Sets\nCVX3: Convex Function\nCVX4: Convex Optimization Problem\nCVX5: Duality"
   }
 ]
