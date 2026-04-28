@@ -1,0 +1,44 @@
+---
+title: "CHEN, Long (陈龙)"
+subtitle: "incoming Ph.D. student @ NEU"
+date: "April 1, 2026"
+about:
+  template: trestles
+  image: profile.jpg
+  image-width: 180px
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: "chen.l19@northeastern.edu"
+      href: "mailto:chen.l19@northeastern.edu"
+    - icon: linkedin
+      text: "linkedin.com/in/lchen1307"
+      href: "https://www.linkedin.com/in/lchen1307"
+    - icon: twitter
+      text: "@LongChe86397198"
+      href: "https://twitter.com/LongChe86397198"
+---
+
+## About Me
+
+I am a M.Phil. student in Management Science and Engineering, advised by
+[Prof. Lindong Liu](https://sites.google.com/view/ldliu/home)
+at the [School of Management](https://en.business.ustc.edu.cn/main.htm),
+[University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/),
+and a member of the [IDEA Lab](https://team.ustc.edu.cn/yunchougongxueshe/en/index.htm).
+I expect to graduate with a master's degree in the summer of 2026.
+Prior to that, I obtained my B.S. in Industrial Engineering from
+[Jiangnan University](https://english.jiangnan.edu.cn/) in 2023.
+
+My research lies at the intersection of **integer programming**,
+**machine learning**, and **statistics**.
+I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as **emergency management** and **two-sided platforms**.
+
+::: {.news-box}
+🎉 I am thrilled to be joining
+[Northeastern University](https://www.northeastern.edu/) in Boston to pursue my **PhD in Industrial Engineering** under the supervision of [Prof. Tugce Martagan](https://coe.northeastern.edu/people/martagan-tugce/)! Excited for this incredible new journey ahead!
+:::
+
+This website hosts a brief introduction in the [`vitae`](cv.qmd) section,
+my [`publications`](publications.qmd), open source [`repositories`](repositories.qmd), and
+[`teaching`](teaching.qmd) experience.

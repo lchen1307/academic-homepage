@@ -1,0 +1,20 @@
+---
+title: "Publications"
+date: "April 1, 2026"
+---
+
+## Journal Articles
+
+::: {.pub-entry}
+1. ::: {.pub-title}
+   Long Chen, Lindong Liu, and Lan Lu\*.
+   "Extended Arc-Time-Indexed Formulation and Exact Approach for Flow Shop Scheduling."[*Submitted*, 2025. ]{.pub-venue} [[paper]](files/paper1.pdf)[[slides]](files/slides/ATIFFS_Slides.pdf)
+   :::
+:::
+
+
+---
+
+## Conference Presentations
+
+*Coming soon.*

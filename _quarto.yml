@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Long Chen"
+  favicon: favicon.ico
+  navbar:
+    background: light
+    left:
+      - href: publications.qmd
+        text: Publications
+      - href: repositories.qmd
+        text: Repositories
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    center: |
+      © 2026 Long Chen &nbsp;|&nbsp; Last updated: {{< meta date >}} &nbsp;|&nbsp;
+      [Made with Quarto](https://quarto.org)
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true

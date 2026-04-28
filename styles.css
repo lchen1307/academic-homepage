@@ -1,0 +1,268 @@
+/* ── Global ─────────────────────────────────────────────── */
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #212529;
+}
+
+a {
+  color: #6f42c1;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #4b2c85;
+  text-decoration: underline;
+}
+
+.quarto-title-meta-heading,
+.quarto-title-meta-contents {
+  display: none !important;
+}
+
+/* ── Navbar ─────────────────────────────────────────────── */
+.navbar {
+  padding: 0.6rem 1.5rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.15rem;
+  color: #212529 !important;
+}
+
+.navbar-nav .nav-link {
+  color: #495057 !important;
+  font-size: 0.95rem;
+  padding: 0.4rem 0.85rem;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #212529 !important;
+  font-weight: 600;
+}
+
+/* ── Main content ───────────────────────────────────────── */
+#quarto-content .page-layout-article {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2rem 1.2rem;
+}
+
+h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-top: 1.5rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1.2rem;
+}
+
+/* ── About / trestles template ──────────────────────────── */
+
+/* Photo */
+.about-image {
+  border-radius: 6px !important;
+  box-shadow: none !important;
+}
+
+/* Links column below photo */
+.about-links {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.about-link {
+  font-size: 0.88rem !important;
+  color: #6f42c1 !important;
+  text-decoration: none !important;
+}
+
+.about-link:hover {
+  color: #4b2c85 !important;
+  text-decoration: underline !important;
+}
+
+/* Right text area */
+.about-contents {
+  padding-left: 2rem;
+}
+
+/* First paragraph is the name — make it prominent */
+.about-contents>p:first-child {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+/* ── Contact box ────────────────────────────────────────── */
+.contact-box {
+  margin-top: 1.5rem;
+  padding: 1rem 1.25rem;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+}
+
+.contact-box h3 {
+  margin-top: 0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: #6c757d;
+}
+
+.contact-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+  margin-bottom: 0.3rem;
+}
+
+.contact-label {
+  min-width: 90px;
+  font-weight: 600;
+  color: #495057;
+}
+
+/* ── News / highlight banner ────────────────────────────── */
+.news-box {
+  background: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  margin: 0.5rem 0;
+  font-size: 0.97rem;
+}
+
+/* ── CV page ────────────────────────────────────────────── */
+.cv-section {
+  margin-bottom: 1.8rem;
+}
+
+.cv-entry {
+  margin-bottom: 1rem;
+}
+
+.cv-entry .role {
+  font-weight: 700;
+}
+
+.cv-entry .org {
+  font-style: italic;
+  color: #495057;
+}
+
+.cv-entry .period {
+  float: right;
+  color: #6c757d;
+  font-size: 0.88rem;
+}
+
+/* ── Publications page ──────────────────────────────────── */
+.pub-entry {
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid #dee2e6;
+}
+
+.pub-title {
+  font-weight: 400;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: #495057;
+}
+
+.pub-links {
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+}
+
+.pub-links a {
+  margin-right: 0.6rem;
+}
+
+.pub-abstract {
+  font-size: 0.92rem;
+  color: #495057;
+  margin-top: 0.5rem;
+  line-height: 1.6;
+}
+
+/* ── Footer ─────────────────────────────────────────────── */
+.nav-footer {
+  border-top: 1px solid #dee2e6;
+  padding: 0.8rem 0;
+  font-size: 0.95rem;
+  color: #6c757d;
+}
+
+.nav-footer-center a {
+  color: #6f42c1;
+  font-weight: 700;
+}
+
+/* ── Back to top ────────────────────────────────────────── */
+.quarto-back-to-top {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  width: 40px;
+  height: 40px;
+  background: #6f42c1;
+  color: white !important;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-in-out;
+  z-index: 1000;
+}
+
+.quarto-back-to-top:hover {
+  background: #4b2c85;
+  transform: translateY(-3px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  text-decoration: none !important;
+}
+
+/* ── Responsive ─────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .about-wrapper {
+    flex-direction: column;
+  }
+
+  .about-photo {
+    width: 130px;
+  }
+
+  .cv-entry .period {
+    float: none;
+    display: block;
+  }
+}

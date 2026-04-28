@@ -1,0 +1,8 @@
+---
+title: "Curriculum Vitae"
+date: "April 1, 2026"
+toc: true
+---
+
+[Open PDF](cv.pdf){.btn .btn-outline-secondary .btn-sm}
+
