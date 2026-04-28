@@ -5,7 +5,7 @@ date: "April 28, 2026"
 
 ## Class Notes
 
-### Convex Optimization
+### Convex Optimization (CN Notes)
 * [CVX2: Convex Sets](file/notes/cvx/Chapter2%20Convex%20Sets.pdf)
 * [CVX3: Convex Function](file/notes/cvx/Chapter3%20Convex%20Function.pdf)
 * [CVX4: Convex Optimization Problem](file/notes/cvx/Chapter4%20Convex%20Optimization%20Problem.pdf)
