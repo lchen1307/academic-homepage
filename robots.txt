@@ -1,1 +1,1 @@
-Sitemap: https://lchen1307.github.io/academic-homepage/sitemap.xml
+Sitemap: https://lchen.org/sitemap.xml
