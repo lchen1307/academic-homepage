@@ -153,8 +153,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="class-notes" class="level2">
 <h2 class="anchored" data-anchor-id="class-notes">Class Notes</h2>
-<section id="convex-optimization" class="level3">
-<h3 class="anchored" data-anchor-id="convex-optimization">Convex Optimization</h3>
+<section id="convex-optimization-cn-notes" class="level3">
+<h3 class="anchored" data-anchor-id="convex-optimization-cn-notes">Convex Optimization (CN Notes)</h3>
 <ul>
 <li><a href="file/notes/cvx/Chapter2 Convex Sets.pdf">CVX2: Convex Sets</a></li>
 <li><a href="file/notes/cvx/Chapter3 Convex Function.pdf">CVX3: Convex Function</a></li>
@@ -240,7 +240,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/lchen\.org");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

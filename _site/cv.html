@@ -153,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="cv.pdf" class="btn btn-outline-secondary btn-sm">Open PDF</a></p>
+<p><a href="file/information/CV_CHEN_Long.pdf" class="btn btn-outline-secondary btn-sm">Download my CV</a></p>
 
 
 
@@ -231,7 +231,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/lchen\.org");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
