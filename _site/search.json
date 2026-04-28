@@ -1,80 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CHEN, Long (陈龙)",
-    "section": "",
-    "text": "I am a M.Phil. student in Management Science and Engineering, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\nThis website hosts a brief introduction in the vitae section, my publications, open source repositories, and teaching experience."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
     "text": "Open PDF\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "cv.html#basics",
-    "href": "cv.html#basics",
-    "title": "Curriculum Vitae",
-    "section": "Basics",
-    "text": "Basics\n\n\n\nName\nLong Chen (陈龙)\n\n\n\n\n\n\nCurrently In\nHefei, Anhui, China"
-  },
-  {
-    "objectID": "cv.html#current-affiliation",
-    "href": "cv.html#current-affiliation",
-    "title": "Curriculum Vitae",
-    "section": "Current Affiliation",
-    "text": "Current Affiliation\n\nPh.D. student in Industrial Engineering\nNortheastern University, College of Engineering\nIncoming Fall 2026, Boston, MA\nAdvisor: Prof. Tugce Martagan"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\nM.Phil. in Operations Research\nUniversity of Science and Technology of China (USTC), School of Management\n2023.09 – 2026.06 (expected)\nAdvisor: Prof. Lindong Liu\n\n\nB.S. in Industrial Engineering\nJiangnan University, School of Mechanical Engineering\n2019.09 – 2023.06"
-  },
-  {
-    "objectID": "cv.html#research-experience",
-    "href": "cv.html#research-experience",
-    "title": "Curriculum Vitae",
-    "section": "Research Experience",
-    "text": "Research Experience\n\nGraduate Research Assistant\nIDEA Lab, USTC School of Management\n2023.09 – present\nResearch on integer programming, machine learning, and combinatorial optimization for real-world operations problems."
-  },
-  {
-    "objectID": "cv.html#teaching-experience",
-    "href": "cv.html#teaching-experience",
-    "title": "Curriculum Vitae",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\n\nTeaching Assistant, USTC\n\nApplied Statistical Methods (B.S., Course 01570901)\nUniversity of Science and Technology of China\nSpring 2026\n\n\nLarge Scale Integer Programming (MSc., MSAE6409P.01)\nUniversity of Science and Technology of China\nSummer 2025\n\n\nReinforcement Learning: Basics and State-of-the-Art (MSc., MSAE6409P.02)\nUniversity of Science and Technology of China\nSummer 2025"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\n\nLong Chen, Lindong Liu, and Lan Lu*. “Extended Arc-Time-Indexed Formulation and Exact Approach for Flow Shop Scheduling.” Submitted, 2025.\nLong Chen, et al. “Two-Stage Optimization for Compute-Sharing Platforms: Pricing and Matching via Lagrangian Decomposition.” Work in Progress, 2025."
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\nProgramming\nPython, Julia, MATLAB, R, C++, LaTeX, Gurobi / CPLEX\nLanguages\nMandarin: Native · English: Professional"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
-  },
-  {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching",
-    "section": "",
-    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
   },
   {
     "objectID": "publications.html",
@@ -96,6 +26,27 @@
     "title": "Publications",
     "section": "Conference Presentations",
     "text": "Conference Presentations\nComing soon."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "",
+    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CHEN, Long (陈龙)",
+    "section": "",
+    "text": "I am a M.Phil. student in Management Science and Engineering, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\nThis website hosts a brief introduction in the vitae section, my publications, open source repositories, and teaching experience."
   },
   {
     "objectID": "index.html#about-me",

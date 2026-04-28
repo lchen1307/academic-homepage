@@ -7,8 +7,8 @@ date: "April 1, 2026"
 
 ::: {.cv-section}
 
-1. **01570901: [Applied Statistical Methods](applied-stat.qmd)** (B.S.), USTC, Spring 2026
-2. **MSAE6409P.01: [Large Scale Integer Programming](ip-rl.qmd)** (MSc.), USTC, Summer 2025
-3. **MSAE6409P.02: [Reinforcement Learning: Basics and State-of-the-Art](ip-rl.qmd)** (MSc.), USTC, Summer 2025
+1. **01570901: [Applied Statistical Methods](https://lchen1307.github.io/applied-stat/about/)** (B.S.), USTC, Spring 2026
+2. **MSAE6409P.01: [Large Scale Integer Programming](https://lchen1307.github.io/ip-rl/)** (MSc.), USTC, Summer 2025
+3. **MSAE6409P.02: [Reinforcement Learning: Basics and State-of-the-Art](https://lchen1307.github.io/ip-rl/)** (MSc.), USTC, Summer 2025
 
 :::
