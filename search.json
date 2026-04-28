@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Open PDF\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Long Chen, Lindong Liu, and Lan Lu*. “Extended Arc-Time-Indexed Formulation and Exact Approach for Flow Shop Scheduling.”Submitted, 2025. [paper][slides]"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Long Chen, Lindong Liu, and Lan Lu*. “Extended Arc-Time-Indexed Formulation and Exact Approach for Flow Shop Scheduling.”Submitted, 2025. [paper][slides]"
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\nComing soon."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "",
+    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CHEN, Long (陈龙)",
+    "section": "",
+    "text": "I am a M.Phil. student in Management Science and Engineering, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\nThis website hosts a brief introduction in the vitae section, my publications, open source repositories, and teaching experience."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "CHEN, Long (陈龙)",
+    "section": "",
+    "text": "I am a M.Phil. student in Management Science and Engineering, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\nThis website hosts a brief introduction in the vitae section, my publications, open source repositories, and teaching experience."
+  },
+  {
+    "objectID": "repositories.html",
+    "href": "repositories.html",
+    "title": "Repositories",
+    "section": "",
+    "text": "Here are some of my open-source projects and code repositories.\nComing soon."
+  },
+  {
+    "objectID": "repositories.html#open-source-projects",
+    "href": "repositories.html#open-source-projects",
+    "title": "Repositories",
+    "section": "",
+    "text": "Here are some of my open-source projects and code repositories.\nComing soon."
+  }
+]
