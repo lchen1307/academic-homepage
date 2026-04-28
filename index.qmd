@@ -1,7 +1,7 @@
 ---
 title: "CHEN, Long (陈龙)"
 subtitle: "incoming Ph.D. student @ NEU"
-date: "April 1, 2026"
+date: "April 28, 2026"
 about:
   template: trestles
   image: profile.jpg

@@ -1,10 +1,12 @@
 ---
 title: "Repositories"
-date: "April 1, 2026"
+date: "April 28, 2026"
 ---
 
-## Open Source Projects
+## Class Notes
 
-Here are some of my open-source projects and code repositories.
-
-*Coming soon.*
+### Convex Optimization
+* [CVX2: Convex Sets](file/notes/cvx/Chapter2%20Convex%20Sets.pdf)
+* [CVX3: Convex Function](file/notes/cvx/Chapter3%20Convex%20Function.pdf)
+* [CVX4: Convex Optimization Problem](file/notes/cvx/Chapter4%20Convex%20Optimization%20Problem.pdf)
+* [CVX5: Duality](file/notes/cvx/Chapter5%20Duality.pdf)
