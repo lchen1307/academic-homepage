@@ -270,7 +270,7 @@ h2 {
 .social-links {
   display: flex;
   flex-direction: column;
-  gap: 0.6rem;
+  gap: 1.1rem;
   margin-top: 1.8rem;
   width: 100%;
 }
@@ -278,7 +278,7 @@ h2 {
 .social-links a {
   display: flex;
   align-items: center;
-  gap: 0.6rem;
+  gap: 0.7rem;
   font-size: 0.95rem;
   font-weight: 500;
   color: var(--text-muted) !important;
@@ -292,9 +292,9 @@ h2 {
 }
 
 .social-icon {
-  width: 18px;
-  height: 18px;
+  font-size: 1.1rem;
   flex-shrink: 0;
+  color: var(--primary-maroon);
 }
 
 /* ── Dark mode overrides ────────────────────────────────── */
