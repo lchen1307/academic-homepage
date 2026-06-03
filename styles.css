@@ -262,6 +262,35 @@ h2 {
   font-weight: 600;
 }
 
+/* ── Social Links ───────────────────────────────────────── */
+.social-links {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-muted) !important;
+  text-decoration: none !important;
+  transition: color 0.2s;
+}
+
+.social-links a:hover {
+  color: var(--primary-maroon) !important;
+}
+
+.social-icon {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+
 /* ── Dark mode overrides ────────────────────────────────── */
 [data-bs-theme="dark"] {
   --primary-maroon: #c0392b;
