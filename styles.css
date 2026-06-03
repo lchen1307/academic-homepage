@@ -350,28 +350,6 @@ h2 {
   }
 }
 
-/* ── Dark mode overrides ────────────────────────────────── */
-[data-bs-theme="dark"] {
-  --primary-maroon: #c0392b;
-}
-
-[data-bs-theme="dark"] .navbar {
-  background-color: rgba(30, 30, 30, 0.95) !important;
-  border-bottom: 1px solid #333;
-}
-
-[data-bs-theme="dark"] .stats-container {
-  border-top-color: #444;
-  border-bottom-color: #444;
-}
-
-[data-bs-theme="dark"] .news-box {
-  background: #2a1a1a;
-}
-
-[data-bs-theme="dark"] .hero-image {
-  box-shadow: 20px 20px 0px #2a2a2a;
-}
 
 /* ── Responsive ─────────────────────────────────────────── */
 @media (max-width: 900px) {
