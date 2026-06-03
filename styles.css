@@ -269,21 +269,22 @@ h2 {
 /* ── Social Links ───────────────────────────────────────── */
 .social-links {
   display: flex;
-  gap: 1.2rem;
-  margin-top: 1rem;
-  flex-wrap: wrap;
-  justify-content: center;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-top: 1.8rem;
+  width: 100%;
 }
 
 .social-links a {
-  display: inline-flex;
+  display: flex;
   align-items: center;
-  gap: 0.4rem;
-  font-size: 0.85rem;
+  gap: 0.6rem;
+  font-size: 0.95rem;
   font-weight: 500;
   color: var(--text-muted) !important;
   text-decoration: none !important;
   transition: color 0.2s;
+  width: 100%;
 }
 
 .social-links a:hover {
@@ -291,9 +292,9 @@ h2 {
 }
 
 .social-icon {
-  width: 16px;
-  height: 16px;
-  vertical-align: middle;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
 }
 
 /* ── Dark mode overrides ────────────────────────────────── */
