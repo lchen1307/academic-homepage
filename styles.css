@@ -97,7 +97,7 @@ header#title-block-header.quarto-title-block.default {
   text-transform: uppercase;
   font-size: 0.8rem;
   letter-spacing: 2px;
-  color: var(--text-muted);
+  color: var(--primary-maroon);
   margin-bottom: 1rem;
   display: block;
 }
@@ -260,6 +260,29 @@ h2 {
 .nav-footer-center a {
   color: var(--primary-maroon);
   font-weight: 600;
+}
+
+/* ── Dark mode overrides ────────────────────────────────── */
+[data-bs-theme="dark"] {
+  --primary-maroon: #c0392b;
+}
+
+[data-bs-theme="dark"] .navbar {
+  background-color: rgba(30, 30, 30, 0.95) !important;
+  border-bottom: 1px solid #333;
+}
+
+[data-bs-theme="dark"] .stats-container {
+  border-top-color: #444;
+  border-bottom-color: #444;
+}
+
+[data-bs-theme="dark"] .news-box {
+  background: #2a1a1a;
+}
+
+[data-bs-theme="dark"] .hero-image {
+  box-shadow: 20px 20px 0px #2a2a2a;
 }
 
 /* ── Responsive ─────────────────────────────────────────── */
