@@ -28,6 +28,27 @@
     "text": "Conference Presentations\nComing soon."
   },
   {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "[Jun. 2026] 🎓 Successfully defended my M.Phil. thesis at USTC.\n[Apr. 2026] 🎉 Thrilled to announce that I will be joining Northeastern University in Boston as a PhD student in Industrial Engineering, advised by Prof. Tugce Martagan!\n[Jan. 2026] 📖 Served as Teaching Assistant for Applied Statistical Methods (Spring 2026) at USTC."
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News",
+    "section": "",
+    "text": "[Jun. 2026] 🎓 Successfully defended my M.Phil. thesis at USTC.\n[Apr. 2026] 🎉 Thrilled to announce that I will be joining Northeastern University in Boston as a PhD student in Industrial Engineering, advised by Prof. Tugce Martagan!\n[Jan. 2026] 📖 Served as Teaching Assistant for Applied Statistical Methods (Spring 2026) at USTC."
+  },
+  {
+    "objectID": "news.html#section-1",
+    "href": "news.html#section-1",
+    "title": "News",
+    "section": "2025",
+    "text": "2025\n\n[Jul. 2025] 📖 Served as Teaching Assistant for Large Scale Integer Programming and Reinforcement Learning: Basics and State-of-the-Art at USTC."
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -46,7 +67,7 @@
     "href": "index.html",
     "title": "About me - Long Chen",
     "section": "",
-    "text": "HELLO, I’M\nLong Chen\n\nincoming Ph.D. student @ Northeastern University (NEU)\n\n\nI am a M.Phil. student in Operations Research, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\n\n\n\n1+ Publications\n\n\n10+ Citations\n\n\n2+ Projects\n\n\nView Publications Get In Touch\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "HELLO, I’M\nLong Chen\n\nincoming Ph.D. student @ Northeastern University (NEU)\n\n\nI am a M.Phil. student in Operations Research, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\n\nView Publications Get In Touch\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "repositories.html",
