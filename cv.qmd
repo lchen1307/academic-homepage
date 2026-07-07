@@ -4,5 +4,5 @@ date: "April 1, 2026"
 toc: true
 ---
 
-[Download CV](file/information/CV_CHEN_Long.pdf){.btn .btn-outline-secondary .btn-sm}
+[Download CV](){.btn .btn-outline-secondary .btn-sm}
 
