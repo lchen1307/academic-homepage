@@ -1,10 +1,52 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CHEN, Long (陈龙)",
+    "section": "",
+    "text": "I am a M.Phil. student in Management Science and Engineering, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\nThis website hosts a brief introduction in the vitae section, my publications, open source repositories, and teaching experience."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "CHEN, Long (陈龙)",
+    "section": "",
+    "text": "I am a M.Phil. student in Management Science and Engineering, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\nThis website hosts a brief introduction in the vitae section, my publications, open source repositories, and teaching experience."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "",
+    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
+  },
+  {
+    "objectID": "repositories.html",
+    "href": "repositories.html",
+    "title": "Repositories",
+    "section": "",
+    "text": "CVX2: Convex Sets\nCVX3: Convex Function\nCVX4: Convex Optimization Problem\nCVX5: Duality"
+  },
+  {
+    "objectID": "repositories.html#class-notes",
+    "href": "repositories.html#class-notes",
+    "title": "Repositories",
+    "section": "",
+    "text": "CVX2: Convex Sets\nCVX3: Convex Function\nCVX4: Convex Optimization Problem\nCVX5: Duality"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Download CV"
+    "text": "Download CV\n\n\n\n Back to top"
   },
   {
     "objectID": "publications.html",
@@ -26,89 +68,5 @@
     "title": "Publications",
     "section": "Conference Presentations",
     "text": "Conference Presentations\nComing soon."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About me - Long Chen",
-    "section": "",
-    "text": "HELLO, I’M\nLong Chen\n\nincoming Ph.D. student @ Northeastern University (NEU)\n\n\nI am a M.Phil. student in Operations Research, advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China (USTC), and a member of the IDEA Lab. I expect to graduate with a master’s degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023.\nMy research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges in high-stakes domains such as emergency management and two-sided platforms.\n\n🎉 I am thrilled to be joining Northeastern University in Boston to pursue my PhD in Industrial Engineering under the supervision of Prof. Tugce Martagan! Excited for this incredible new journey ahead!\n\n\nView Publications Get In Touch\n\n\n\n\n LinkedIn @ lchen1307  X @ LongChe86397198  chen.l19@northeastern.edu  lchen1307@ustc.edu"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
-  },
-  {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching",
-    "section": "",
-    "text": "01570901: Applied Statistical Methods (B.S.), USTC, Spring 2026\nMSAE6409P.01: Large Scale Integer Programming (MSc.), USTC, Summer 2025\nMSAE6409P.02: Reinforcement Learning: Basics and State-of-the-Art (MSc.), USTC, Summer 2025"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "[May. 2026] 🎓 Successfully defended my M.Phil. thesis at USTC.\n[Apr. 2026] 🎉 Thrilled to announce that I will be joining Northeastern University in Boston as a PhD student in Industrial Engineering, advised by Prof. Tugce Martagan!\n[Jan. 2026] 📖 Served as Teaching Assistant for Applied Statistical Methods (Spring 2026) at USTC."
-  },
-  {
-    "objectID": "news.html#section",
-    "href": "news.html#section",
-    "title": "News",
-    "section": "",
-    "text": "[May. 2026] 🎓 Successfully defended my M.Phil. thesis at USTC.\n[Apr. 2026] 🎉 Thrilled to announce that I will be joining Northeastern University in Boston as a PhD student in Industrial Engineering, advised by Prof. Tugce Martagan!\n[Jan. 2026] 📖 Served as Teaching Assistant for Applied Statistical Methods (Spring 2026) at USTC."
-  },
-  {
-    "objectID": "news.html#section-1",
-    "href": "news.html#section-1",
-    "title": "News",
-    "section": "2025",
-    "text": "2025\n\n[Jul. 2025] 📖 Served as Teaching Assistant for Large Scale Integer Programming and Reinforcement Learning: Basics and State-of-the-Art at USTC."
-  },
-  {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Gallery",
-    "section": "",
-    "text": "Graduation Ceremony with IDEA Lab, USTC"
-  },
-  {
-    "objectID": "gallery.html#section",
-    "href": "gallery.html#section",
-    "title": "Gallery",
-    "section": "",
-    "text": "Graduation Ceremony with IDEA Lab, USTC"
-  },
-  {
-    "objectID": "gallery.html#section-1",
-    "href": "gallery.html#section-1",
-    "title": "Gallery",
-    "section": "2025",
-    "text": "2025\n\n\n\n\nAnnual Conference on Frontiers of Engineering Management, Dalian"
-  },
-  {
-    "objectID": "gallery.html#section-2",
-    "href": "gallery.html#section-2",
-    "title": "Gallery",
-    "section": "2024",
-    "text": "2024\n\n\n\n\nManagement Science and Engineering Society Annual Conference, Wuxi\n\n\n\n\n\nChinese Systems Engineering Society Annual Conference, Hefei"
-  },
-  {
-    "objectID": "repositories.html",
-    "href": "repositories.html",
-    "title": "Repositories",
-    "section": "",
-    "text": "CVX2: Convex Sets\nCVX3: Convex Function\nCVX4: Convex Optimization Problem\nCVX5: Duality"
-  },
-  {
-    "objectID": "repositories.html#class-notes",
-    "href": "repositories.html#class-notes",
-    "title": "Repositories",
-    "section": "",
-    "text": "CVX2: Convex Sets\nCVX3: Convex Function\nCVX4: Convex Optimization Problem\nCVX5: Duality"
   }
 ]
