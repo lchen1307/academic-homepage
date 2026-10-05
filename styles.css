@@ -22,7 +22,7 @@ p { margin:0 0 1rem; }
 #quarto-content .academic-layout > * { grid-column:auto !important; grid-row:auto !important; }
 .profile-card,.content-section { background:white; border-radius:1rem; border:1px solid var(--line); padding:1.5rem; }
 .profile-card { box-shadow:0 10px 22px rgb(15 23 42 / 6%); }
-.profile-photo { display:block; width:100%; height:auto; border-radius:1rem; margin-bottom:1rem; }
+.profile-photo { display:block; width:100%; height:auto; aspect-ratio:1 / 1; object-fit:cover; object-position:center top; border-radius:1rem; margin-bottom:1rem; }
 .profile-name { font-size:1.6rem; font-weight:700; letter-spacing:.03em; line-height:1.25; text-align:center; margin:0 0 .8rem; }
 .profile-info { text-align:center; line-height:1.7; }
 .profile-card hr { border:0; border-top:1px solid var(--line); opacity:1; margin:1rem 0; }
